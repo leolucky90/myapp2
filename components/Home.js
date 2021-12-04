@@ -1,10 +1,10 @@
 import React from "react"
-import{View, Text, StyleSheep} from "react-native";
+import{ View, Text, StyleSheet} from "react-native";
 
-export function Home(props){
+export function Home (props ){
     return(
-        <view>
-            <text>Home</text>
-        </view>
+        <View>
+            <Text>Home</Text>
+        </View>
     )
 }

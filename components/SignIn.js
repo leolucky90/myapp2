@@ -1,10 +1,10 @@
 import React from "react"
-import{View, Text, StyleSheep} from "react-native";
+import{ View, Text, StyleSheet } from "react-native";
 
-export function SignIn(props){
+export function Signin(props){
     return(
-        <view>
-            <text>Sign In</text>
-        </view>
+        <View>
+            <Text>Sign in</Text>
+        </View>
     )
 }
